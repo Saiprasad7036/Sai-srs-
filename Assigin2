@@ -1,0 +1,11 @@
+n1=("sai","jeev","sai")      
+n2=("ajay","chinna","vasu")
+a=len(n1)
+b=len(n2)
+
+print(n1+n2)
+
+
+Output:-
+('sai', 'jeev', 'sai', 'ajay', 'chinna', 'vasu')
+>
